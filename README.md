@@ -1,1 +1,1 @@
-# Image-Edge-Detection-
+## Image-Edge-Detection-Using Canny
